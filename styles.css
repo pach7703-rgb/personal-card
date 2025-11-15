@@ -8,3 +8,7 @@ header .bio {
     font-size: 16px;
     color: #666;
 }
+.bio {
+    color: #555;
+    font-size: 14px;
+}
