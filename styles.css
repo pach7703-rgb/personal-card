@@ -16,3 +16,7 @@ header .bio {
     width: 120px;
     border-radius: 50%;
 }
+.skills li {
+    margin: 4px 0;
+    color: #444;
+}
