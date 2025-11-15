@@ -1,0 +1,22 @@
+header h1 {
+    font-size: 28px;
+    margin: 0;
+    color: #333;
+}
+
+header .bio {
+    font-size: 16px;
+    color: #666;
+}
+.bio {
+    color: #555;
+    font-size: 14px;
+}
+.pfp {
+    width: 120px;
+    border-radius: 50%;
+}
+.skills li {
+    margin: 4px 0;
+    color: #444;
+}
